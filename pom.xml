@@ -5,6 +5,19 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.muzlive.android.bordertextviewtest</groupId>
     <artifactId>bordertextview</artifactId>
-    <version>1.4</version>
+    <version>1.5</version>
     <packaging>aar</packaging>
+
+    <dependencies>
+        <dependency>
+            <groupId>androidx.core</groupId>
+            <artifactId>core-ktx</artifactId>
+            <version>1.8.0</version>
+        </dependency>
+        <dependency>
+            <groupId>androidx.appcompat</groupId>
+            <artifactId>appcompat</artifactId>
+            <version>1.6.0</version>
+        </dependency>    
+    </dependencies>
 </project>
