@@ -5,8 +5,20 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.muzlive.android.bordertextviewtest</groupId>
     <artifactId>bordertextview</artifactId>
-    <version>1.5</version>
+    <version>1.6</version>
     <packaging>aar</packaging>
+
+    <build>
+        <plugins>
+            <plugin>
+                <groupId>com.simpligility.maven.plugins</groupId>
+                <artifactId>android-maven-plugin</artifactId>
+                <version>4.6.0</version>
+                <extensions>true</extensions>
+            </plugin>
+        </plugins>
+    </build>
+
 
     <dependencies>
         <dependency>
