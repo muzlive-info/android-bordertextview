@@ -1,2 +1,2 @@
 install:
-  mvn install:install-file -Dfile=BorderTextView.aar -DgroupId=com.muzlive.android.bordertextviewtest -DartifactId=bordertextview -Dversion=1.6 -Dpackaging=aar -DpomFile=pom.xml
+  mvn install:install-file -Dfile=BorderTextView.aar -DgroupId=com.muzlive.android.bordertextviewtest -DartifactId=bordertextview -Dversion=1.7 -Dpackaging=aar -DpomFile=pom.xml
